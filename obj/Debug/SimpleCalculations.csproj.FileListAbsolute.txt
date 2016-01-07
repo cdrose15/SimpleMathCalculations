@@ -1,0 +1,6 @@
+C:\Users\cdros\OneDrive\Documents\Visual Studio 2013\Projects\SimpleCalculations\SimpleCalculations\bin\SimpleCalculations.dll.config
+C:\Users\cdros\OneDrive\Documents\Visual Studio 2013\Projects\SimpleCalculations\SimpleCalculations\bin\SimpleCalculations.dll
+C:\Users\cdros\OneDrive\Documents\Visual Studio 2013\Projects\SimpleCalculations\SimpleCalculations\bin\SimpleCalculations.pdb
+C:\Users\cdros\OneDrive\Documents\Visual Studio 2013\Projects\SimpleCalculations\SimpleCalculations\obj\Debug\SimpleCalculations.dll
+C:\Users\cdros\OneDrive\Documents\Visual Studio 2013\Projects\SimpleCalculations\SimpleCalculations\obj\Debug\SimpleCalculations.pdb
+C:\Users\cdros\OneDrive\Documents\Visual Studio 2013\Projects\SimpleCalculations\SimpleCalculations\obj\Debug\SimpleCalculations.csprojResolveAssemblyReference.cache
